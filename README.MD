@@ -47,14 +47,14 @@
 * [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane)
 * [UniBorg](https://github.com/SpEcHiDe/UniBorg)
 
-> Special Thanks to all of you !!!.
+> DEPLOY 
+details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/irash1234567/ULTRON/tree/main">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
-## [Documentation](http://theuserge.tech) 📘
 
-## [Deployment](https://git.heroku.com/autoultronbots.git)
-
-
-## [Plugins](https://github.com/irash1234567/USERAGEBOT-Plugins) 🔌
 
 ### Pre Requisites
 
