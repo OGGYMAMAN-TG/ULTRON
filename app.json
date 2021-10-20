@@ -26,6 +26,10 @@
             "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
         },
+        "USER_ID": {
+            "description": "YOUR USER ID GET @OGGYMAMAN",
+            "value'. ""
+        },
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
             "value": ""
