@@ -51,7 +51,8 @@
 
 ## [Documentation](http://theuserge.tech) 📘
 
-## [Deployment](http://theuserge.tech/deployment) 👷
+## [Deployment](
+https://git.heroku.com/autoultronbots.git) 👷
 
 ## [Plugins](https://github.com/irash1234567/USERAGEBOT-Plugins) 🔌
 
